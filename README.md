@@ -3,6 +3,15 @@ cheat sheet
 
 gnome的系统代理还是很好用的
 
+安装google 专门支持中文程序员的字体和配置字体的
+
+```bash
+sudo dnf install google-noto-cjk-fonts gnome-tweaks
+```
+
+然后 字体统一使用`Noto Sans Mono CJK SC`，`SC` 代表着简体中文
+
+
 改键位用
 kmonad
 
